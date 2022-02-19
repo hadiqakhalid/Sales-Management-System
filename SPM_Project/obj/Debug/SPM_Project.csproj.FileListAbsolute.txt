@@ -1,0 +1,7 @@
+C:\Users\DEV-PC\source\repos\SPM_Project\SPM_Project\bin\Debug\SPM_Project.exe.config
+C:\Users\DEV-PC\source\repos\SPM_Project\SPM_Project\bin\Debug\SPM_Project.exe
+C:\Users\DEV-PC\source\repos\SPM_Project\SPM_Project\bin\Debug\SPM_Project.pdb
+C:\Users\DEV-PC\source\repos\SPM_Project\SPM_Project\obj\Debug\SPM_Project.csprojAssemblyReference.cache
+C:\Users\DEV-PC\source\repos\SPM_Project\SPM_Project\obj\Debug\SPM_Project.csproj.CoreCompileInputs.cache
+C:\Users\DEV-PC\source\repos\SPM_Project\SPM_Project\obj\Debug\SPM_Project.exe
+C:\Users\DEV-PC\source\repos\SPM_Project\SPM_Project\obj\Debug\SPM_Project.pdb
